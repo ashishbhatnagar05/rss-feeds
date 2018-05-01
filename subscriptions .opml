@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>The Old Reader</title>
+    <dateCreated>Tue, 01 May 2018 12:23:34 GMT</dateCreated>
+    <dateModified>Tue, 01 May 2018 12:23:34 GMT</dateModified>
+    <ownerName>ashish bhatnagar</ownerName>
+    <ownerEmail>ashishbhatnagar05@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline title="news" text="news">
+      <outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
+      <outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
+      <outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml"/>
+      <outline type="rss" xmlUrl="http://www.thehindu.com/news/?service=rss"/>
+      <outline type="rss" xmlUrl="http://www.frontline.in/cover-story/?service=rss"/>
+      <outline type="rss" xmlUrl="http://www.thehindu.com/business/Economy/?service=rss"/>
+      <outline type="rss" xmlUrl="https://economictimes.indiatimes.com/rssfeeds/1286551815.cms"/>
+    </outline>
+    <outline title="Java" text="Java">
+      <outline type="rss" xmlUrl="http://feeds.dzone.com/home"/>
+      <outline type="rss" xmlUrl="http://feeds.feedburner.com/codinghorror"/>
+      <outline type="rss" xmlUrl="https://antoniogoncalves.org/feed/"/>
+      <outline type="rss" xmlUrl="https://blog.frankel.ch/feed.xml"/>
+      <outline type="rss" xmlUrl="http://feeds.feedburner.com/Baeldung"/>
+      <outline type="rss" xmlUrl="http://adam-bien.com/roller/abien/feed/entries/atom"/>
+      <outline type="rss" xmlUrl="https://vladmihalcea.com/feed/"/>
+      <outline type="rss" xmlUrl="https://leetcodenotes.wordpress.com/feed/"/>
+      <outline type="rss" xmlUrl="http://feeds.feedburner.com/MilesToGo"/>
+      <outline type="rss" xmlUrl="https://pragmaticintegrator.wordpress.com/feed/"/>
+      <outline type="rss" xmlUrl="https://www.programcreek.com/feed/"/>
+      <outline type="rss" xmlUrl="http://feeds.feedburner.com/jenkov-com"/>
+      <outline type="rss" xmlUrl="https://blog.jooq.org/feed/"/>
+    </outline>
+    <outline title="Comics" text="Comics">
+      <outline type="rss" xmlUrl="http://feeds.feedburner.com/DilbertDailyStrip"/>
+    </outline>
+    <outline title="tech" text="tech">
+      <outline type="rss" xmlUrl="https://dev.to/feed"/>
+      <outline type="rss" xmlUrl="https://techcrunch.com/feed/"/>
+      <outline type="rss" xmlUrl="https://news.ycombinator.com/rss"/>
+      <outline type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain"/>
+    </outline>
+    <outline title="reddit" text="reddit">
+      <outline type="rss" xmlUrl="https://www.reddit.com/r/coding/.rss"/>
+      <outline type="rss" xmlUrl="https://www.reddit.com/r/dailyprogrammer/.rss"/>
+      <outline type="rss" xmlUrl="https://www.reddit.com/r/soccer/.rss"/>
+      <outline type="rss" xmlUrl="https://www.reddit.com/r/science/.rss"/>
+      <outline type="rss" xmlUrl="https://www.reddit.com/r/programming/.rss"/>
+      <outline type="rss" xmlUrl="https://www.reddit.com/r/Jokes/.rss"/>
+      <outline type="rss" xmlUrl="https://www.reddit.com/r/java/.rss"/>
+      <outline type="rss" xmlUrl="https://www.reddit.com/r/javahelp/.rss"/>
+    </outline>
+    <outline title="coderanch" text="coderanch">
+      <outline type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/51/Web-Services"/>
+      <outline type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/7/Servlets"/>
+      <outline type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/33/java"/>
+      <outline type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/78/ORM"/>
+      <outline type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/24/java-programmer-SCJP"/>
+      <outline type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/68/Testing"/>
+      <outline type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/38/Streams"/>
+      <outline type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/96/Spring"/>
+      <outline type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/1/java"/>
+    </outline>
+  </body>
+</opml>
+
