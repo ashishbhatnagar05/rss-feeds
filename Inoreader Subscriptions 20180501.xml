@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of ashish bhatnagar from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="news" title="news">
+      <outline text="Finance-Economy-News-The Economic Times" title="Finance-Economy-News-The Economic Times" type="rss" xmlUrl="https://economictimes.indiatimes.com/rssfeeds/1286551815.cms" htmlUrl="https://economictimes.indiatimes.com/news/economy/finance"/>
+      <outline text="BBC News - Home" title="BBC News - Home" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" htmlUrl="http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+      <outline text="The Hindu - News" title="The Hindu - News" type="rss" xmlUrl="http://www.thehindu.com/news/?service=rss" htmlUrl="http://www.thehindu.com/"/>
+      <outline text="frontline - Cover Story" title="frontline - Cover Story" type="rss" xmlUrl="http://www.frontline.in/cover-story/?service=rss" htmlUrl="http://www.frontline.in/"/>
+    </outline>
+    <outline text="Java" title="Java">
+      <outline text="Adam Bien" title="Adam Bien" type="rss" xmlUrl="http://adam-bien.com/roller/abien/feed/entries/atom" htmlUrl="http://adambien.blog/roller"/>
+      <outline text="DZone.com Feed" title="DZone.com Feed" type="rss" xmlUrl="http://feeds.dzone.com/home" htmlUrl="https://dzone.com/"/>
+      <outline text="Coding Horror" title="Coding Horror" type="rss" xmlUrl="http://feeds.feedburner.com/codinghorror" htmlUrl="http://blog.codinghorror.com/"/>
+      <outline text="Antonio's Blog" title="Antonio's Blog" type="rss" xmlUrl="https://antoniogoncalves.org/feed/" htmlUrl="http://antoniogoncalves.org/"/>
+      <outline text="A Java geek" title="A Java geek" type="rss" xmlUrl="https://blog.frankel.ch/feed.xml" htmlUrl="https://nfrankel.gitlab.io/"/>
+      <outline text="Baeldung" title="Baeldung" type="rss" xmlUrl="http://feeds.feedburner.com/Baeldung" htmlUrl="http://www.baeldung.com"/>
+      <outline text="Vlad Mihalcea's Blog" title="Vlad Mihalcea's Blog" type="rss" xmlUrl="https://vladmihalcea.com/feed/" htmlUrl="https://vladmihalcea.com/"/>
+      <outline text="Lexi's Leetcode solutions" title="Lexi's Leetcode solutions" type="rss" xmlUrl="https://leetcodenotes.wordpress.com/feed/" htmlUrl="https://leetcodenotes.wordpress.com/"/>
+      <outline text="Miles to go 2.0 ..." title="Miles to go 2.0 ..." type="rss" xmlUrl="http://feeds.feedburner.com/MilesToGo" htmlUrl="http://blog.arungupta.me/"/>
+      <outline text="The Pragmatic Integrator" title="The Pragmatic Integrator" type="rss" xmlUrl="https://pragmaticintegrator.wordpress.com/feed/" htmlUrl="https://pragmaticintegrator.wordpress.com/"/>
+      <outline text="Program Creek" title="Program Creek" type="rss" xmlUrl="https://www.programcreek.com/feed/" htmlUrl="https://www.programcreek.com/"/>
+      <outline text="Jenkov.com - News" title="Jenkov.com - News" type="rss" xmlUrl="http://feeds.feedburner.com/jenkov-com" htmlUrl="http://jenkov.com/rss/rss_all.jsp"/>
+      <outline text="Java, SQL and jOOQ." title="Java, SQL and jOOQ." type="rss" xmlUrl="https://blog.jooq.org/feed/" htmlUrl="https://blog.jooq.org/"/>
+    </outline>
+    <outline text="Comics" title="Comics">
+      <outline text="Dilbert Daily Strip" title="Dilbert Daily Strip" type="rss" xmlUrl="http://feeds.feedburner.com/DilbertDailyStrip" htmlUrl="http://dilbert.com/"/>
+      <outline text="The Practical Developer" title="The Practical Developer" type="rss" xmlUrl="https://dev.to/feed" htmlUrl="http://dev.to/"/>
+      <outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+    </outline>
+    <outline text="tech" title="tech">
+      <outline text="The Practical Developer" title="The Practical Developer" type="rss" xmlUrl="https://dev.to/feed" htmlUrl="http://dev.to/"/>
+      <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/"/>
+      <outline text="Hacker News" title="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="Digg Top Stories" title="Digg Top Stories" type="rss" xmlUrl="http://digg.com/rss/top.rss" htmlUrl="http://digg.com/"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
+    </outline>
+    <outline text="reddit" title="reddit">
+      <outline text="coding" title="coding" type="rss" xmlUrl="https://www.reddit.com/r/coding/.rss" htmlUrl="https://www.reddit.com/r/coding/"/>
+      <outline text="For learning, refreshing, or just for fun!" title="For learning, refreshing, or just for fun!" type="rss" xmlUrl="https://www.reddit.com/r/dailyprogrammer/.rss" htmlUrl="https://www.reddit.com/r/dailyprogrammer/"/>
+      <outline text="/r/Soccer: the back page of the internet" title="/r/Soccer: the back page of the internet" type="rss" xmlUrl="https://www.reddit.com/r/soccer/.rss" htmlUrl="https://www.reddit.com/r/soccer/"/>
+      <outline text="Science" title="Science" type="rss" xmlUrl="https://www.reddit.com/r/science/.rss" htmlUrl="https://www.reddit.com/r/science/"/>
+      <outline text="programming" title="programming" type="rss" xmlUrl="https://www.reddit.com/r/programming/.rss" htmlUrl="https://www.reddit.com/r/programming/"/>
+      <outline text="Jokes: Get Your Funny On!" title="Jokes: Get Your Funny On!" type="rss" xmlUrl="https://www.reddit.com/r/Jokes/.rss" htmlUrl="https://www.reddit.com/r/Jokes/"/>
+      <outline text="Java" title="Java" type="rss" xmlUrl="https://www.reddit.com/r/java/.rss" htmlUrl="https://www.reddit.com/r/java/"/>
+      <outline text="funny" title="funny" type="rss" xmlUrl="https://www.reddit.com/r/funny/.rss" htmlUrl="https://www.reddit.com/r/funny/"/>
+      <outline text="Java help/tutorials/questions" title="Java help/tutorials/questions" type="rss" xmlUrl="https://www.reddit.com/r/javahelp/.rss" htmlUrl="https://www.reddit.com/r/javahelp/"/>
+    </outline>
+    <outline text="coderanch" title="coderanch">
+      <outline text="JavaRanch: &quot;Programmer Certification (OCPJP)&quot;" title="JavaRanch: &quot;Programmer Certification (OCPJP)&quot;" type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/24/java-programmer-SCJP" htmlUrl="https://coderanch.com/f/24/java-programmer-SCJP"/>
+      <outline text="JavaRanch: &quot;Testing&quot;" title="JavaRanch: &quot;Testing&quot;" type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/68/Testing" htmlUrl="https://coderanch.com/f/68/Testing"/>
+      <outline text="JavaRanch: &quot;Object Relational Mapping&quot;" title="JavaRanch: &quot;Object Relational Mapping&quot;" type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/78/ORM" htmlUrl="https://coderanch.com/f/78/ORM"/>
+      <outline text="JavaRanch: &quot;Beginning Java&quot;" title="JavaRanch: &quot;Beginning Java&quot;" type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/33/java" htmlUrl="https://coderanch.com/f/33/java"/>
+      <outline text="JavaRanch: &quot;Servlets&quot;" title="JavaRanch: &quot;Servlets&quot;" type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/7/Servlets" htmlUrl="https://coderanch.com/f/7/Servlets"/>
+      <outline text="JavaRanch: &quot;Java in General&quot;" title="JavaRanch: &quot;Java in General&quot;" type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/1/java" htmlUrl="https://coderanch.com/f/1/java"/>
+      <outline text="JavaRanch: &quot;Web Services&quot;" title="JavaRanch: &quot;Web Services&quot;" type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/51/Web-Services" htmlUrl="https://coderanch.com/f/51/Web-Services"/>
+      <outline text="JavaRanch: &quot;Spring&quot;" title="JavaRanch: &quot;Spring&quot;" type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/96/Spring" htmlUrl="https://coderanch.com/f/96/Spring"/>
+      <outline text="JavaRanch: &quot;I/O and Streams&quot;" title="JavaRanch: &quot;I/O and Streams&quot;" type="rss" xmlUrl="https://coderanch.com/forums/rss/forumTopics/38/Streams" htmlUrl="https://coderanch.com/f/38/Streams"/>
+    </outline>
+  </body>
+</opml>
